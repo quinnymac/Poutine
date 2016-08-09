@@ -1,65 +1,25 @@
-Minetest
-========
+   ___            _   _            
+  / _ \___  _   _| |_(_)_ __   ___ 
+ / /_)/ _ \| | | | __| | '_ \ / _ \
+/ ___/ (_) | |_| | |_| | | | |  __/
+\/    \___/ \__,_|\__|_|_| |_|\___|
+                                   
+=================================================================
 
-An InfiniMiner/Minecraft inspired game.
-
-Copyright (c) 2010-2013 Perttu Ahola <celeron55@gmail.com>
-and contributors (see source file comments and the version control log)
-
-In case you downloaded the source code:
----------------------------------------
-If you downloaded the Minetest Engine source code in which this file is
-contained, you probably want to download the minetest_game project too:
-  https://github.com/minetest/minetest_game/
-See the README.txt in it.
+A Sauerbraten inspired engine.
+Based off of Minetest, a free opensource Minecraft clone:
+	Copyright (c) 2010-2013 Perttu Ahola <celeron55@gmail.com>
+	and contributors (see source file comments and the version control log)
 
 Further documentation
 ----------------------
-- Website: http://minetest.net/
-- Wiki: http://wiki.minetest.net/
-- Developer wiki: http://dev.minetest.net/
-- Forum: http://forum.minetest.net/
-- Github: https://github.com/minetest/minetest/
+- Official Minetest Github: https://github.com/minetest/minetest/
 - doc/ directory of source distribution
 
 This game is not finished
 --------------------------
 - Don't expect it to work as well as a finished game will.
 - Please report any bugs. When doing that, debug.txt is useful.
-
-Default Controls
------------------
-- WASD: move
-- Space: jump/climb
-- Shift: sneak/go down
-- Q: drop itemstack (+ SHIFT for single item)
-- I: inventory
-- Mouse: turn/look
-- Mouse left: dig/punch
-- Mouse right: place/use
-- Mouse wheel: select item
-- T: chat
-- 1-8: select item
-
-- Esc: pause menu (pauses only singleplayer game)
-- R: Enable/Disable full range view
-- +: Increase view range
-- -: Decrease view range
-- K: Enable/Disable fly (needs fly privilege)
-- J: Enable/Disable fast (needs fast privilege)
-- H: Enable/Disable noclip (needs noclip privilege)
-
-- F1:  Hide/Show HUD
-- F2:  Hide/Show Chat
-- F3:  Disable/Enable Fog
-- F4:  Disable/Enable Camera update (Mapblocks are not updated anymore when disabled)
-- F5:  Toogle through debug info screens
-- F6:  Toogle through output data
-- F7:  Toggle through camera modes
-- F10: Show/Hide console
-- F12: Take screenshot
-
-- Settable in the configuration file, see the section below.
 
 Paths
 ------
